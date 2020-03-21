@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/flat-fix/static/css/main.ba00b450.chunk.css",
+    "main.js": "/flat-fix/static/js/main.a448e4e4.chunk.js",
+    "main.js.map": "/flat-fix/static/js/main.a448e4e4.chunk.js.map",
+    "runtime-main.js": "/flat-fix/static/js/runtime-main.0684ee01.js",
+    "runtime-main.js.map": "/flat-fix/static/js/runtime-main.0684ee01.js.map",
+    "static/js/2.a89e11ce.chunk.js": "/flat-fix/static/js/2.a89e11ce.chunk.js",
+    "static/js/2.a89e11ce.chunk.js.map": "/flat-fix/static/js/2.a89e11ce.chunk.js.map",
+    "index.html": "/flat-fix/index.html",
+    "precache-manifest.12a3ad37576ebad051929b37d0f6bcf2.js": "/flat-fix/precache-manifest.12a3ad37576ebad051929b37d0f6bcf2.js",
+    "service-worker.js": "/flat-fix/service-worker.js",
+    "static/css/main.ba00b450.chunk.css.map": "/flat-fix/static/css/main.ba00b450.chunk.css.map",
+    "static/js/2.a89e11ce.chunk.js.LICENSE.txt": "/flat-fix/static/js/2.a89e11ce.chunk.js.LICENSE.txt",
+    "static/media/Feedback.module.css": "/flat-fix/static/media/feedback.8cc06abc.jpg",
+    "static/media/Header.module.css": "/flat-fix/static/media/header.96abe6c2.jpg",
+    "static/media/Request.module.css": "/flat-fix/static/media/request.aa7595fc.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0684ee01.js",
+    "static/js/2.a89e11ce.chunk.js",
+    "static/css/main.ba00b450.chunk.css",
+    "static/js/main.a448e4e4.chunk.js"
+  ]
+}
