@@ -1,0 +1,48 @@
+.timer {
+  padding: 10px;
+  margin: 0 auto 30px auto;
+  max-width: 260px;
+  background-color: #333333;
+  border-radius: 6px;
+}
+
+.timerList {
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+}
+
+.cardOverlay {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 4px;
+}
+
+.cardName {
+  padding: 0;
+  margin: 0;
+  color: #fff;
+  font-size: 10px;
+  font-weight: 700;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.card {
+  padding: 8px 6px;
+  margin: 0 2px 0 0;
+  background: linear-gradient(to bottom, #747373, #bebebe);
+  border-radius: 4px;
+  font-size: 20px;
+  font-weight: 700;
+  color: #fff;
+}
+
+.colon {
+  padding: 0;
+  margin: 0;
+  line-height: 36px;
+  color: #fff;
+}

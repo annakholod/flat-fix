@@ -1,0 +1,55 @@
+.cost {
+  padding: 50px 10px;
+  margin: 0 auto;
+  max-width: 1150px;
+}
+
+.btnMenu {
+  padding: 10px;
+  margin: 0 10px 30px 0;
+  background: none;
+  border: none;
+  font-size: 14px;
+  cursor: pointer;
+  outline: none;
+}
+
+.btnMenu:hover,
+.btnMenu:focus {
+  background-color: #f3f3f3;
+}
+
+.btnMenuActive {
+  position: relative;
+  background-color: #f3f3f3;
+}
+
+.btnMenuActive::after {
+  position: absolute;
+  content: "";
+  bottom: -11px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 0;
+  height: 0;
+  border: 6px solid transparent;
+  border-top: 6px solid #f3f3f3;
+}
+
+@media (min-width: 480px) {
+  .btnMenu {
+    padding: 12px;
+    width: 140px;
+    font-size: 16px;
+  }
+}
+
+@media (min-width: 768px) {
+  .cost {
+    padding: 70px 20px;
+  }
+
+  .btnMenu {
+    width: 200px;
+  }
+}

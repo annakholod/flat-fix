@@ -1,0 +1,16 @@
+.openMenu {
+  width: 56px;
+  height: 56px;
+  border: none;
+  background-color: #e7b22d;
+  box-shadow: 0 0 4px #303030;
+  cursor: pointer;
+  outline: none;
+  z-index: 1;
+}
+
+@media (min-width: 768px) {
+  .openMenu {
+    display: none;
+  }
+}

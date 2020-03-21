@@ -1,0 +1,22 @@
+.iconOverlay {
+  margin-left: 10px;
+  width: 40px;
+  height: 40px;
+  cursor: pointer;
+}
+
+.svgImg {
+  fill: #333333;
+}
+
+.iconOverlay:hover .svgImg,
+.iconOverlay:focus .svgImg {
+  fill: #d73533;
+}
+
+@media (min-width: 768px) {
+  .iconOverlay {
+    width: 20px;
+    height: 20px;
+  }
+}

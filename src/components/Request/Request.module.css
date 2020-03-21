@@ -1,0 +1,61 @@
+.sectionRequest {
+  background-image: url(../../images/request.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.wrapper {
+  padding: 50px 10px;
+  margin: 0 auto;
+  max-width: 1150px;
+}
+
+.text {
+  padding: 0;
+  margin: 0 0 20px 0;
+  max-width: 320px;
+  font-size: 18px;
+  line-height: 30px;
+  color: #303030;
+}
+
+.textDecor {
+  font-weight: 700;
+}
+
+.button {
+  padding: 24px 62px;
+  background-color: #e7b22d;
+  border: none;
+  box-shadow: 1px 1px 1px #303030;
+  font-size: 14px;
+  font-weight: 700;
+  color: #333333;
+  text-transform: uppercase;
+  cursor: pointer;
+  outline: none;
+}
+
+.button:hover,
+.button:focus {
+  background-color: #e2a60c;
+}
+
+@media (min-width: 768px) {
+  .wrapper {
+    padding: 70px 20px;
+  }
+
+  .content {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .text {
+    margin: 0;
+  }
+
+  .button {
+    font-size: 16px;
+  }
+}

@@ -1,0 +1,79 @@
+[
+  {
+    "id": "project1",
+    "title": "Ремонт комнаты 18 м2",
+    "category": "Отделка и ремонт",
+    "images": [
+      "https://annakholod.github.io/images/projects/p11.jpg",
+      "https://annakholod.github.io/images/projects/p12.jpg",
+      "https://annakholod.github.io/images/projects/p13.jpg"
+    ]
+  },
+  {
+    "id": "project2",
+    "title": "Ремонт квартиры 52 м2",
+    "category": "Отделка и ремонт",
+    "images": [
+      "https://annakholod.github.io/images/projects/p21.jpg",
+      "https://annakholod.github.io/images/projects/p22.jpg"
+    ]
+  },
+  {
+    "id": "project3",
+    "title": "Строительство дома",
+    "category": "строительство и ремонт",
+    "images": [
+      "https://annakholod.github.io/images/projects/p31.jpg",
+      "https://annakholod.github.io/images/projects/p32.jpg",
+      "https://annakholod.github.io/images/projects/p33.jpg"
+    ]
+  },
+  {
+    "id": "project4",
+    "title": "Отделка комнаты",
+    "category": "Малярные работы",
+    "images": ["https://annakholod.github.io/images/projects/p41.jpg"]
+  },
+  {
+    "id": "project5",
+    "title": "Укладка ламината",
+    "category": "Замер, монтаж",
+    "images": [
+      "https://annakholod.github.io/images/projects/p51.jpg",
+      "https://annakholod.github.io/images/projects/p52.jpg",
+      "https://annakholod.github.io/images/projects/p53.jpg"
+    ]
+  },
+  {
+    "id": "project6",
+    "title": "Строительство дома",
+    "category": "Строительство и ремонт",
+    "images": [
+      "https://annakholod.github.io/images/projects/p61.jpeg",
+      "https://annakholod.github.io/images/projects/p62.jpg"
+    ]
+  },
+  {
+    "id": "project7",
+    "title": "Ремонт квартиры",
+    "category": "Отделка и ремонт",
+    "images": [
+      "https://annakholod.github.io/images/projects/p71.jpg",
+      "https://annakholod.github.io/images/projects/p72.jpg",
+      "https://annakholod.github.io/images/projects/p73.jpg",
+      "https://annakholod.github.io/images/projects/p74.jpg",
+      "https://annakholod.github.io/images/projects/p71.jpg",
+      "https://annakholod.github.io/images/projects/p76.jpg"
+    ]
+  },
+  {
+    "id": "project8",
+    "title": "Ремонт комнаты 35 м2",
+    "category": "Отделка и ремонт",
+    "images": [
+      "https://annakholod.github.io/images/projects/p81.jpg",
+      "https://annakholod.github.io/images/projects/p82.jpg",
+      "https://annakholod.github.io/images/projects/p83.jpeg"
+    ]
+  }
+]

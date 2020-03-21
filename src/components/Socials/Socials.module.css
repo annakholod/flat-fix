@@ -1,0 +1,7 @@
+.socials {
+  display: flex;
+  justify-content: flex-end;
+  align-items: baseline;
+  width: 204px;
+  text-align: right;
+}

@@ -1,0 +1,15 @@
+.mapOverlay {
+  width: 100%;
+}
+
+.map {
+  width: 100%;
+  height: 286px;
+  border: none;
+}
+
+@media (min-width: 768px) {
+  .mapOverlay {
+    width: 500px;
+  }
+}

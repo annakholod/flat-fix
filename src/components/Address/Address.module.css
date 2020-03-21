@@ -1,0 +1,27 @@
+.addressSection {
+  position: relative;
+  padding-left: 24px;
+}
+
+.addressSection::before {
+  position: absolute;
+  content: "";
+  left: 0;
+  top: 4px;
+  width: 14px;
+  height: 18px;
+  background-image: url(../../images/icons/address.png);
+}
+
+.addressTitle,
+.address {
+  padding: 0;
+  margin: 0;
+  font-size: 16px;
+  line-height: 24px;
+  color: #303030;
+}
+
+.address {
+  font-weight: 700;
+}

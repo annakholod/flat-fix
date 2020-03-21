@@ -1,0 +1,21 @@
+.iconOverlay {
+  padding: 30px;
+  margin: 0 auto 20px auto;
+  width: 144px;
+  height: 144px;
+  border: 2px solid #e7b22d;
+}
+
+.svgImg {
+  fill: #e7b22d;
+}
+
+.iconOverlay:hover {
+  border: 1px solid #fff;
+  background-color: #e7b22d;
+  border-radius: 50%;
+}
+
+.iconOverlay:hover .svgImg {
+  fill: #fff;
+}

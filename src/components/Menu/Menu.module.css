@@ -1,0 +1,46 @@
+.menu {
+  position: absolute;
+  left: 10px;
+  top: 130px;
+}
+
+.navList {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+.listItem {
+  font-size: 20px;
+  line-height: 50px;
+  color: #363636;
+  cursor: pointer;
+}
+
+.listItemAction {
+  color: #f10606;
+  font-weight: 700;
+}
+
+@media (min-width: 768px) {
+  .menu {
+    position: static;
+  }
+
+  .navList {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .listItem {
+    padding: 0 10px;
+    font-size: 14px;
+    line-height: 100px;
+    font-weight: 700;
+  }
+
+  .listItem:hover,
+  .listItem:focus {
+    background-color: #e7b22d;
+  }
+}

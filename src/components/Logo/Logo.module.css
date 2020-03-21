@@ -1,0 +1,38 @@
+.logo {
+  margin-bottom: 50px;
+  z-index: 1;
+}
+
+.flat,
+.fix {
+  padding: 0;
+  margin: 0;
+  font-size: 30px;
+  line-height: 34px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+}
+
+.flat {
+  color: #303030;
+}
+
+.fix {
+  color: #616161;
+}
+
+.logoBottom {
+  padding: 0;
+  margin: 0;
+  font-size: 13px;
+  line-height: 24px;
+  color: #303030;
+  letter-spacing: 0.001em;
+}
+
+@media (min-width: 768px) {
+  .logo {
+    padding-top: 20px;
+  }
+}

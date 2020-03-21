@@ -1,0 +1,12 @@
+.messageOverlay {
+  padding: 80px 10px;
+}
+
+.text {
+  font-weight: 700;
+}
+
+.textSecond {
+  font-weight: 700;
+  color: #ec0505;
+}

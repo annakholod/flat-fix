@@ -1,0 +1,49 @@
+[
+  {
+    "id": "price-1",
+    "image": "https://annakholod.github.io/images/price/price1.png",
+    "title": "Черновые работы",
+    "category": "Полы, стены",
+    "price": "350",
+    "unit": "грн./м2"
+  },
+  {
+    "id": "price-2",
+    "image": "https://annakholod.github.io/images/price/price2.png",
+    "title": "Электромонтажные работы",
+    "price": "50",
+    "unit": "грн./м.пог"
+  },
+  {
+    "id": "price-3",
+    "image": "https://annakholod.github.io/images/price/price3.png",
+    "title": "Инженерные работы",
+    "category": "Коммуникации, кондиционирование, вентиляция",
+    "price": "300",
+    "unit": "грн./м"
+  },
+  {
+    "id": "price-4",
+    "image": "https://annakholod.github.io/images/price/price4.png",
+    "title": "Плиточные работы",
+    "category": "Укладка, отделка",
+    "price": "600",
+    "unit": "грн./м2"
+  },
+  {
+    "id": "price-5",
+    "image": "https://annakholod.github.io/images/price/price5.png",
+    "title": "Малярные работы",
+    "category": "Обои, фрески, покраска",
+    "price": "340",
+    "unit": "грн./м2"
+  },
+  {
+    "id": "price-6",
+    "image": "https://annakholod.github.io/images/price/price6.png",
+    "title": "Укладка ламината",
+    "category": "Замер, монтаж",
+    "price": "520",
+    "unit": "грн./м2"
+  }
+]
